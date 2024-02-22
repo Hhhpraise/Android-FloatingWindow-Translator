@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158368923974",
+    "project_id": "my-translator-57d8a",
+    "storage_bucket": "my-translator-57d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158368923974:android:ff1fa2edad943381422547",
+        "android_client_info": {
+          "package_name": "com.praise.translatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158368923974-qrktfvonu9m2cjvvn6a7a1he5p1cicp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDldwgS798mF9sPXoUs3g3z_S8JgXytK88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158368923974-qrktfvonu9m2cjvvn6a7a1he5p1cicp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
