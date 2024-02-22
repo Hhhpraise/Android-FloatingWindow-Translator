@@ -13,6 +13,11 @@ dependencies {
 
 This dependency is crucial for enabling the translation feature within your application.
 
+### App Images
+<img src="Images/translator.png" alt="Example Image" width="350" height="700">
+<img src="Images/floatingTranslate.png" alt="Example Image" width="350" height="700">
+
+
 ## Features:
 - Floating Window Translation: Translate text from any screen or application using a convenient floating window.
 - Effortless Translation: Enjoy seamless translation without the need to switch between apps.
